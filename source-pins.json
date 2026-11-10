@@ -1,0 +1,49 @@
+{
+  "checked_at": "2026-10-24",
+  "sources": [
+    {
+      "repo": "Tonejs/Tone.js",
+      "commit": "0e19a85c4338def3b3958561a4a0de42f509f9a5"
+    },
+    {
+      "repo": "nbrosowsky/tonejs-instruments",
+      "commit": "622c2f1c32c8cfce4158ddc3eb26e518ddef37e5"
+    },
+    {
+      "repo": "tombatossals/chords-db",
+      "commit": "df06fa7b425cf5fd29485ff6591236b3557e3fac"
+    },
+    {
+      "repo": "ptnghia-j/ChordMiniApp",
+      "commit": "33623b8885259f59c4005dad79b489aca8ae4ef9"
+    },
+    {
+      "repo": "ohollo/chord-extractor",
+      "commit": "e227137b9593b2c73eb9017549f0a67f49fa3e67"
+    },
+    {
+      "repo": "Music-and-Culture-Technology-Lab/omnizart",
+      "commit": "bcd8cb44d4da66ce87df10b6abee5c35a8cc2886"
+    },
+    {
+      "repo": "spotify/basic-pitch",
+      "commit": "fa5997af0a8210982619003269994a1be25eddf3"
+    }
+  ],
+  "algorithm_references": [
+    {
+      "repo": "casiez/OneEuroFilter",
+      "usage": "algorithm reference only; this project has an independently written JavaScript implementation",
+      "stars": 262,
+      "forks": 20,
+      "stats_checked_at": "2026-10-24"
+    },
+    {
+      "repo": "google-ai-edge/mediapipe",
+      "usage": "upstream hand tracking framework already integrated; official Web Hand Landmarker guide",
+      "stats_checked_at": "2026-10-24",
+      "stars_display": "37.4k",
+      "forks_display": "6.2k"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "chordino": {
+    "passed": true,
+    "fixture": "16 秒采样吉他控制样例 C-Am-F-G，不代表真实整曲准确率",
+    "chords": [
+      "N",
+      "C",
+      "Am",
+      "F",
+      "G"
+    ],
+    "note_count": 0,
+    "bpm_estimate": 39.75
+  },
+  "basic-pitch": {
+    "passed": true,
+    "fixture": "16 秒采样吉他控制样例 C-Am-F-G，不代表真实整曲准确率",
+    "chords": [
+      "C",
+      "Am",
+      "F",
+      "G",
+      "N"
+    ],
+    "note_count": 54,
+    "bpm_estimate": 39.75
+  },
+  "omnizart": {
+    "passed": true,
+    "fixture": "16 秒采样吉他控制样例 C-Am-F-G，不代表真实整曲准确率",
+    "chords": [
+      "C",
+      "Am",
+      "F",
+      "G"
+    ],
+    "note_count": 0,
+    "bpm_estimate": 39.75
+  }
+}

@@ -1,0 +1,21 @@
+.venv*/
+node_modules/
+.runtime/
+data/
+__pycache__/
+*.pyc
+.env*
+!.env.example
+evidence/reference-video*
+# Local-only validation captures and personal song-analysis fixture data
+evidence/original-songs-import.json
+evidence/fixture.wav
+evidence/*reference*.png
+# Regenerable test reports and scratch output (analysis-smoke.json is kept for runtime engine status)
+evidence/api-checks.json
+evidence/assets.json
+evidence/browser-checks.json
+evidence/chordino-build.log
+evidence/final-checks.json
+evidence/smoke/
+evidence/fixture.wav
